@@ -1,0 +1,12 @@
+[TENANT:ALL]
+Ventilator Preventive Maintenance Guide - Synthetic Training Document
+
+Remove the ventilator from clinical use before service. Inspect the power cable, battery status, inlet filter, breathing circuit connectors, alarm speaker, display, and wheels. Replace a damaged cable rather than taping it. Run leak, pressure, flow, oxygen concentration, and alarm tests with approved test equipment.
+
+After filter replacement, record the filter lot as synthetic training data and complete calibration. A failed battery self-test requires the unit to remain out of service until the battery is replaced and the full self-test passes.
+
+[TENANT:HOSP-A]
+Northstar Hospital addendum: NS-VENT-014 has a monthly intake-filter inspection because it is assigned to ICU Bay 4.
+
+[TENANT:HOSP-B]
+Lakeside Hospital addendum: LS-VENT-008 is quarantined in the engineering workshop after a battery failure. The Lakeside release checklist is required before its status changes.

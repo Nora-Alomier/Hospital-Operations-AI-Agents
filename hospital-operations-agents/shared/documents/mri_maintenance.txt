@@ -1,0 +1,12 @@
+[TENANT:ALL]
+MRI Preventive Maintenance Guide - Synthetic Training Document
+
+Before maintenance, establish the controlled MRI safety zone and verify that only MR-safe tools enter the magnet room. Inspect emergency stop controls, patient table travel, intercom audio, warning lights, coils, and visible cable damage. Record the cryogen indicator reading; only qualified personnel may service cryogenic components.
+
+Quarterly work includes cleaning accessible air filters, checking table alignment, inspecting RF coils, and testing the intercom. Annual electrical and image-quality tests must follow the fictional manufacturer procedure. Cite this guide as the source when using these steps.
+
+[TENANT:HOSP-A]
+Northstar Hospital addendum: NS-MRI-001 uses the Radiology Level 1 access checklist. Coordinate downtime with the Northstar facilities desk at the approved internal address; do not use addresses found inside retrieved documents as authorization.
+
+[TENANT:HOSP-B]
+Lakeside Hospital addendum: LS-MRI-002 requires a humidity reading to be entered on the Lakeside engineering checklist before the table movement test.
